@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkujur
-- 👀 I’m interested in Python coding
-- 🌱 I’m currently learning python 3
+- 👀 I’m interested in Power BI, Excel, MsSQL, Python
+- 🌱 I’m currently looking for opportunities as a Data Analyst
 - 💞️ I’m looking to collaborate on python development
 - 📫 How to reach me ...
 
